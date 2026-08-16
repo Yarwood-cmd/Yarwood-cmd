@@ -16,8 +16,9 @@ I'm transitioning into software engineering from a career in public service. My 
 ### 🪖 Background & Credentials
 - U.S. Marine Corps veteran — MOS 2841, Ground Radio Repairman (Afghanistan, 5th ANGLICO)
 - Sworn patrol officer, Sherman Police Department (TX) — drone operations instructor (FAA Part 107)
-- Inactive DoD Secret clearance, eligible for reinstatement; CUI access eligible
-- CJIS Security trained operator · FAA Part 107 Remote Pilot
+- Inactive DoD Secret clearance, eligible for reinstatement
+- CJIS Security trained operator
+- FAA Part 107 Remote Pilot - aerial mapping and scene reconstruction (Pix4D, FARO Zone)
 
 ---
 

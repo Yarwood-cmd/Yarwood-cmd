@@ -35,7 +35,7 @@ I'm transitioning into software engineering from a career in public service. My 
 
 | Project | What it is | Stack |
 |---|---|---|
-[**Police Drone Flight Log System**](https://github.com/Yarwood-cmd/Police-Drone-Flight-Log-System) | Relational database and Python CLI for law enforcement drone operations. Normalized five-entity schema with constraint-based validation, FAA Part 107 currency tracking, and maintenance history. SQLite · SQL · Python · PowerShell |
+[**Police Drone Flight Log System**](https://github.com/Yarwood-cmd/Police-Drone-Flight-Log-System) | Relational database and Python CLI for law enforcement drone operations. Normalized five-entity schema with constraint-based validation, FAA Part 107 currency tracking, and maintenance history. | SQLite · SQL · Python · PowerShell |
 | [**playwright-qa-portfolio**](https://github.com/Yarwood-cmd/playwright-qa-portfolio) | End-to-end test automation suite with CI and containerized runs | Playwright · GitHub Actions · Docker |
 | [**network-scanner**](https://github.com/Yarwood-cmd/network-scanner) | Multi-threaded port scanner with service detection | Python |
 | [**blog-api**](https://github.com/Yarwood-cmd/blog-api) | REST API backend for a blogging platform | Flask · SQLite |
